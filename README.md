@@ -6,6 +6,8 @@
 
 The goal of Desktop is to testar, nem deveria ter esse nome!
 
+A bia está editando aqui para mostrar como funciona!! 
+
 ## Installation
 
 You can install the released version of Desktop from [CRAN](https://CRAN.R-project.org) with:
